@@ -27,12 +27,26 @@ This project is a classic arcade style game. Each level increases in difficulty,
 - Python 3.10+
 - See `requirements.txt`
 
-## How to Run
+## How to Run (Manual Setup)
 ```bash
-git clone https://github.com/yourusername/project-name.git
-cd project-name
+git clone https://github.com/davidsaridakis/alien_invasion
+cd alien_invasion
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 python alien_invasion.py
+```
+## Quick Start
+
+### Mac / Linux / WSL
+```bash
+./run.sh
+```
+### Windows
+- Double-click `run.bat`
+- Or run from a terminal:
+```cmd
+run.bat
+```
+
 
