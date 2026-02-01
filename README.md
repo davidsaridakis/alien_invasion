@@ -1,4 +1,5 @@
 # Alien Invasion
+![Gameplay Demo](gameplay.gif)
 
 This project is a classic arcade style game. Each level increases in difficulty, there are 3 lives per game, and the top score of the session is recorded and displayed. Built using Python using Pygame to practice and implement OOP, game loop and event handling.
 
@@ -48,5 +49,6 @@ python alien_invasion.py
 ```cmd
 run.bat
 ```
+
 
 
